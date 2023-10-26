@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gestures-in-Jetpack-Compose</string>
+    <string name="close">Close</string>
+</resources>
